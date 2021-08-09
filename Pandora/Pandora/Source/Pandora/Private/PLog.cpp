@@ -9,8 +9,6 @@
 #include "Runtime/Core/Public/CoreGlobals.h"
 #include "Runtime/Core/Public/Async/Async.h"
 
-DEFINE_LOG_CATEGORY(LogPDR)
-
 namespace pandora
 {
 FString PLog::buffer = TEXT("");

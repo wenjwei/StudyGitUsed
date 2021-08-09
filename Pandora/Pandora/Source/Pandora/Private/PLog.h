@@ -7,6 +7,7 @@
 #include "Logging/LogMacros.h"
 
 DECLARE_LOG_CATEGORY_EXTERN(LogPDR, Log, All)
+DEFINE_LOG_CATEGORY(LogPDR)
 
 
 namespace pandora
